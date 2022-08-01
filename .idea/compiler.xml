@@ -12,8 +12,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="PriceCalculator.PriceCalculator.main~1" target="16" />
-      <module name="PriceCalculator.PriceCalculator.test~1" target="16" />
+      <module name="PriceCalculator.PriceCalculator.main~1" target="1.8" />
+      <module name="PriceCalculator.PriceCalculator.test~1" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
